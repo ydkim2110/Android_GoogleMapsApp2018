@@ -4,7 +4,7 @@
 <h3>Watch the course on YouTube: <a href='https://www.youtube.com/playlist?list=PLgCYzUzKIBE-SZUrVOsbYMzH7tPigT3gi' target='_blank'>here</a>.</h3>
 <h3>Watch the <a href='https://www.youtube.com/watch?v=RQxY7rrZATU' target='_blank'>Course Demo</a>.</h3>
 
-<h3>What you'll learn:</h3>
+<h3>What you'll learn: </h3>
 <ol>
   <li>Enabling the Google Maps SDK for Android</li>
   <li>Enabling the Google Directions API for Android</li>
